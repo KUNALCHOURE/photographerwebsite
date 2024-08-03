@@ -17,4 +17,5 @@ Welcome to the PhotoGallery Sidebar project! This is a visually appealing web pa
 - **Google Fonts**: Utilizes the Poppins font for improved typography.
 
 ## Screenshot
-![Screenshot 2024-08-03 231920](https://github.com/user-attachments/assets/2d670ffb-1980-4d7d-b8fc-167f52d2e6cb)
+![Screenshot 2024-08-03 232421](https://github.com/user-attachments/assets/eaca2411-a483-4914-8463-1589cca5323d)
+
